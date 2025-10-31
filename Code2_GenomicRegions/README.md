@@ -57,11 +57,11 @@ chr3    10000000   10001500
 It was also executed for other regions described in Table S26 described by Choin et al., 2021 including: 
 
  - Regions of high frequency in both ancient and present-day (PD)
-   samples
+   samples (high_high.bed)
   - Regions of high frequency in ancient and low in present day (PD)
-   samples
+   samples (high_low.bed)
    - Regions of low frequency in ancient and high in present day (PD)
-   samples
+   samples (low_high.bed)
 
 ## Configuration
 
