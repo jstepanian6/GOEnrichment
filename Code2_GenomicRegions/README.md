@@ -54,7 +54,7 @@ chr2    5000000    5002000
 chr3    10000000   10001500
 
 ```
-It was also executed for other regions described in Table S26 described by Choin et al., 2021 including: 
+It was also executed for other regions described in Table S26 described by Iasi et al., 2024 including: 
 
  - Regions of high frequency in both ancient and present-day (PD)
    samples (high_high.bed)
@@ -151,5 +151,5 @@ Although some parts of the code indicate that it performs permutations, it actua
  - This code accounts for genomic region length but they are overlapped over coding regions, so the ideal scenario would be only include genomic regions of coding regions. 
 
 ## References 
-Choin, J., Mendoza-Revilla, J., Arauna, L.R. _et al._ Genomic insights into population history and biological adaptation in Oceania. _Nature_  **592**, 583–589 (2021). https://doi.org/10.1038/s41586-021-03236-5. 
+Iasi LNM, Chintalapati M, Skov L, Mesa AB, Hajdinjak M, Peter BM, Moorjani P. Neandertal ancestry through time: Insights from genomes of ancient and present-day humans. bioRxiv [Preprint]. 2024 May 13:2024.05.13.593955. doi: 10.1101/2024.05.13.593955. Update in: Science. 2024 Dec 13;386(6727):eadq3010. doi: 10.1126/science.adq3010. PMID: 38798350; PMCID: PMC11118355.
 
