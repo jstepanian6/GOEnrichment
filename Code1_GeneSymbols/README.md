@@ -167,7 +167,7 @@ The script calculates gene lengths but currently uses **uniform random sampling*
 If length bias is a concern, the sampling could be modified to be length-weighted.
 
 ## Note 
-Example files belong to supplementary material described in Table S26 by Choin et al., 2021
+Example files belong to supplementary material described in Table S26 by Iasi et al., 2024
 ## References
-Choin, J., Mendoza-Revilla, J., Arauna, L.R. _et al._ Genomic insights into population history and biological adaptation in Oceania. _Nature_  **592**, 583–589 (2021). [https://doi.org/10.1038/s41586-021-03236-5](https://doi.org/10.1038/s41586-021-03236-5).
+Iasi LNM, Chintalapati M, Skov L, Mesa AB, Hajdinjak M, Peter BM, Moorjani P. Neandertal ancestry through time: Insights from genomes of ancient and present-day humans. bioRxiv [Preprint]. 2024 May 13:2024.05.13.593955. doi: 10.1101/2024.05.13.593955. Update in: Science. 2024 Dec 13;386(6727):eadq3010. doi: 10.1126/science.adq3010. PMID: 38798350; PMCID: PMC11118355.
 
